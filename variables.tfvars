@@ -1,5 +1,5 @@
-aws_access_key  = "AKIAR5VKDGHVQKMHBFQC" 
-aws_secret_key  = "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"
+aws_access_key  = "" 
+aws_secret_key  = ""
 private_key_path = "TerraUser_Key.pem"
 
 environment_tag = "dev"
